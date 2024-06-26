@@ -1,5 +1,8 @@
 # Project Title: TeamCollab API using Django Rest Framework and JWT Token Authentication. Postman is used for generating API requests.
-## Project Summary: In this project, I have created a flow where admin can login and create new users, perform several CRUD actions for the users, projects, tasks and comments
+## Project Summary: 
+TeamCollab, is  a project management tool that allows teams to collaborate on projects. The tool needs an API to manage users, projects, tasks, and
+comments. The API will be consumed by their front-end web application and mobile
+application.
 
 ## Prerequisites:
 - Python
